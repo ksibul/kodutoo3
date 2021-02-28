@@ -38,5 +38,12 @@ footer {
 }
 
 body .jumbotron {
-    background-color: #ffeded;
+    background-color: #f3f3f3;
+}
+
+body .carousel-inner {
+    display: block;
+    text-align: center;
+    width: page;
+    background-color: #f3f3f3;
 }
